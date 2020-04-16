@@ -7,12 +7,12 @@ import { RandomPicker } from "./RandomPicker";
 
 export default function App() {
   const items = [
-    "What do you want to do first after Covid-19?",
-    "Nowadays, how do you having fun at home?",
-    "Do you cook your own food? Where do you shop?",
-    "Introduce your recent favorite books, music or movie.",
-    "What is the most expensive thing you bought?",
-    "What are you annoyed at these days?"
+    "What's the first thing you want to do after COVIT-19?",
+    "How do you have fun at home these days?",
+    "Do you cook your own meal? Where do you buy your foods?",
+    "What is your recent favorite books, music or movie?",
+    "What is the most expensive thing you bought recently?",
+    "What things bother you these days?"
   ];
   return (
     <div className="App">

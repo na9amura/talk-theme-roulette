@@ -7,6 +7,8 @@
   width: 80vw;
   margin: 20vh auto;
   transform-style: preserve-3d;
+  /* for debug, remove animation when enable this */
+  /* transform: rotateY(70deg);  */
 }
 
 .panel {
